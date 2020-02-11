@@ -72,15 +72,15 @@ li.links a {
 
 /* MEDIAS QUERIES */
 @media all and (min-width: 768px) {
-    .header-container {
+    header.header-container {
         display: flex;
         justify-content: space-between;
         align-items: center;
         padding: 20px 30px;
     }
 
-    .container-general {
-        top: 10vh;
+    .content-ppal {
+        height: 90vh;
     }
 
     .content-ppal h1 {
