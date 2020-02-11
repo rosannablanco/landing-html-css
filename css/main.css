@@ -24,6 +24,7 @@ header.header-container {
     z-index: 20;
     padding-top: 10px;
     padding-bottom: 13px;
+    height: 20vh;
 
 }
 
@@ -77,10 +78,6 @@ li.links a {
         justify-content: space-between;
         align-items: center;
         padding: 20px 30px;
-    }
-
-    .content-ppal {
-        height: 90vh;
     }
 
     .content-ppal h1 {
